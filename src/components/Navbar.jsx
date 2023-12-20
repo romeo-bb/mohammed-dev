@@ -79,7 +79,7 @@ const Navbar = () => {
           <div>
             <div className="flex w-full items-center justify-between">
               <ScrollLink to="home">
-                <img loading="lazy" src={mylogo} alt="/" className="w-[186px] h-[146px]" />
+                <img loading="lazy" src={mylogo} alt="/" className="w-[186px] h-[80px]" />
               </ScrollLink>
               <div
                 onClick={handleNav}
