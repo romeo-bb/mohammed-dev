@@ -31,7 +31,7 @@ const Footer = () => {
             <a href="mailto:mandalosy13@gmail.com"><MailIcon size={30} /></a>
             <a href="https://twitter.com/mandalosy"><FaXTwitter size={30} /></a>               */}
             <a
-              href="/"
+              href="https://www.linkedin.com/in/mohammed-el-andalosy-5472672a6/"
               target="_blank"
               rel="noreferrer"
             >

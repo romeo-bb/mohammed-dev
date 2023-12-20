@@ -68,7 +68,7 @@ const Contact = () => {
                   <p className="text-xl font-bold colt">Twitter</p>
                 </div>
               </a>
-              <a className="w-fit hover:scale-105 ease-in duration-300" href="" target="_blank">
+              <a className="w-fit hover:scale-105 ease-in duration-300" href="https://www.linkedin.com/in/mohammed-el-andalosy-5472672a6/" target="_blank">
                 <div className="flex flex-row items-center h-auto w-full text-xl gap-5 hden">
                   <span className="bg-gradient-to-r from-cyan-500 to-blue-500 p-3 rounded-full text-white">
                     <LinkedInIcon size={30} />

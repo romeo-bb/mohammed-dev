@@ -43,7 +43,7 @@ const Hero = () => {
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a
-              href="/"
+              href="https://www.linkedin.com/in/mohammed-el-andalosy-5472672a6/"
               target="_blank"
               rel="noreferrer"
             >
