@@ -10,7 +10,7 @@ import { motion } from "framer-motion";
 
 const Hero = () => {
   return (
-    <div id="home" className="w-full h-auto lg:pt-32 md:pt-48 xsm:pt-28 lg:pb-16 text-center">
+    <div id="home" className="w-full h-auto pt-40 lg:pb-16 text-center">
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <motion.div initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
