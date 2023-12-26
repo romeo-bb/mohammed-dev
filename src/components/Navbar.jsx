@@ -133,7 +133,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href="https://www.instagram.com/romeo._.x4?igshid=OGQ5ZDc2ODk2ZA=="
+                  href="https://www.instagram.com/simo_developer?igsh=YzAwZjE1ZTI0Zg=="
                   target="_blank"
                   rel="noreferrer"
                 >

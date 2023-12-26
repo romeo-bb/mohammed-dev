@@ -53,7 +53,7 @@ const Footer = () => {
                 <AiOutlineMail />
               </div>
             </a>
-            <a href="https://www.instagram.com/romeo._.x4?igshid=OGQ5ZDc2ODk2ZA==">
+            <a href="https://www.instagram.com/simo_developer?igsh=YzAwZjE1ZTI0Zg==">
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                 <FaInstagram />
               </div>

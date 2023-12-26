@@ -52,7 +52,7 @@ const Contact = () => {
               contact information on this site.
             </div>
             <div className="grid grid-cols-2 mdgr gap-3 items-center justify-between w-fit">
-              <a href="https://www.instagram.com/romeo._.x4?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" className="w-fit hover:scale-105 ease-in duration-300">
+              <a href="https://www.instagram.com/simo_developer?igsh=YzAwZjE1ZTI0Zg==" target="_blank" className="w-fit hover:scale-105 ease-in duration-300">
                 <div className="flex flex-row text-[#1ca0e2] items-center gap-5 h-auto w-full text-xl hden">
                   <span className="bg-gradient-to-r from-cyan-500 to-blue-500 p-3 rounded-full text-white">
                     <FaInstagram size={30} />
