@@ -60,12 +60,18 @@ const Hero = () => {
                 <FaXTwitter />
               </div>
             </a>
-            <a href="mailto:mandalosy13@gmail.com">
+            <a href="mailto:mandalosy13@gmail.com"
+               target="_blank"
+               rel="noreferrer"
+            >
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                 <AiOutlineMail />
               </div>
             </a>
-            <a href="https://www.instagram.com/simo_developer?igsh=YzAwZjE1ZTI0Zg==">
+            <a href="https://www.instagram.com/simo_developer?igsh=YzAwZjE1ZTI0Zg=="
+               target="_blank"
+               rel="noreferrer"
+            >
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                 <FaInstagram />
               </div>
