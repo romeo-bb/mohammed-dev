@@ -229,7 +229,7 @@ const Projects = () => {
                 <a
                   className="flex items-center text-[#2d2e32] font-semibold"
                   target="_blank"
-                  href="https://saadelmasrour.github.io/Photography-App/"
+                  href="https://photography-app-blue.vercel.app/"
                   rel="noreferrer"
                 >
                   Live Demo
