@@ -253,7 +253,7 @@ const Projects = () => {
               </div>
             </div>
             <div className="rounded-[1.5rem] lg:w-[53rem] lg:h-[22rem] w-auto h-auto shadowbox overflow-hidden">
-              <a href="https://saadelmasrour.github.io/Photography-App/"
+              <a href="https://photography-app-blue.vercel.app/"
                  target="_blank"
               >
                 <img loading="lazy" className="md:h-[100%] md:object-cover" src={photography} alt="" />
