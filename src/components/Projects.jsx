@@ -70,7 +70,7 @@ const Projects = () => {
         <div className="w-full h-auto py-7 flex items-center flex-col gap-14">
           <motion.div className="md:w-[80%] w-full lg:h-[25rem] md:h-[43rem] xsm:h-[35rem] xsm:w-[365px] items-center flex justify-between lg:flex-row flex-col p-[1.2rem] bg-white rounded-[1.5rem] gap-8 shadowbox"  initial={{ opacity: 0, x: "100"}} animate={controls1} transition={{ duration: 1.6 }} ref={ref1}>
             <div className="rounded-[1.5rem] lg:w-[53rem] lg:h-[22rem] w-auto h-auto shadowbox overflow-hidden trans">
-              <a href="https://romeo-bb.github.io/Car-Rental-Web/"
+              <a href="https://car-rental-web-ashy.vercel.app/"
                  target="_blank"
               >
                 <img loading="lazy" className="screen" src={car_rental} alt="" />
@@ -93,7 +93,7 @@ const Projects = () => {
                 <a
                   className="flex items-center text-[#2d2e32] font-semibold"
                   target="_blank"
-                  href="https://romeo-bb.github.io/Car-Rental-Web/"
+                  href="https://car-rental-web-ashy.vercel.app/"
                   rel="noreferrer"
                 >
                   Live Demo
@@ -134,7 +134,7 @@ const Projects = () => {
                 <a
                   className="flex items-center text-[#2d2e32] font-semibold"
                   target="_blank"
-                  href="https://romeo-bb.github.io/Fitness-World/"
+                  href="https://fitness-world-green.vercel.app/"
                   rel="noreferrer"
                 >
                   Live Demo
@@ -158,7 +158,7 @@ const Projects = () => {
               </div>
             </div>
             <div className="rounded-[1.5rem] lg:w-[53rem] lg:h-[22rem] w-auto h-auto shadowbox overflow-hidden transf">
-              <a href="https://romeo-bb.github.io/Fitness-World/"
+              <a href="https://fitness-world-green.vercel.app/"
                  target="_blank"
               >
                 <img loading="lazy" className="screen" src={fitness_world} alt="" />
